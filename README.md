@@ -40,5 +40,3 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulla3037&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true" alt="Abdulla3037" />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulla3037&theme=aura-dark" alt="abdulla3037" /></p>
