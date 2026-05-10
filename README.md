@@ -7,9 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Md.+Abdulla+Hasan" alt="Typing SVG" />
 </p>
-<h3 align="center">CSE student | Enthusiastic about software development, problem solving, and AI innovations.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<h3 align="center">CSE Undergraduate | Data Science | Passionate about Data Analytics & Artificial Intelligence | Machine Learning Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdulla3037&label=Profile%20views&color=0e75b6&style=flat-square" alt="abdulla3037" />
@@ -17,14 +15,26 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ### 🤵 About Me
 
-- 🎓 Pursuing a **BSc in Computer Science and Engineering** at East West University, Dhaka, Bangladesh.
-- 🌱 Currently exploring **Data Science, Statistical Analysis, Problem Solving, and Cybersecurity** via CTF challenges.
-- 👨‍💻 All projects available at [github.com/Abdulla3037](https://github.com/Abdulla3037)
-- 💬 Ask me about **technology, competitive programming, or mathematics.**
-- 📫 Reach me at **abdullahasan220618@gmail.com**
-- ⚡ Fun fact: When I'm not coding, I enjoy YouTube and gaming.
+- 🎓 Currently pursuing **BSc in CSE** at **East West University**, Dhaka — where curiosity meets code.
+- 🧪 Researching **Deep Learning** — built a Fruit Freshness Assessment system using **ResNet34** accepted for oral presentation at **IEEE CSNT 2026.**
+- 🚀 I'm currently learning more about Artificial Intelligence, Machine Learning, Data Science, Deep Learning, NLP, and Data Analysis.
+- 👨‍💻 Everything I build lives here → [github.com/Abdulla3037](https://github.com/Abdulla3037)
+- 💬 Got a question about **Python, ML, Deep Learning, SQL, C/C++, or Web Devlopment?** Let's talk.
+- 📫 Drop a mail at **abdullahasan220618@gmail.com**
+- ⚡ Outside of coding, I'm either in-game or plotting my next win online! 🎮
+- 
+</td>
+<td valign="top" width="45%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
