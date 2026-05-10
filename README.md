@@ -26,7 +26,7 @@
 - 🏆 Published research on Fruit Freshness Assessment using ResNet34 and Deep Learning has been accepted for oral presentation at IEEE CSNT 2026.
 - 🚀 I'm currently learning more about Artificial Intelligence, Machine Learning, Data Science, Deep Learning, Data Analysis, and NLP.
 - 💬 Got a question about **Python, ML, Deep Learning, SQL, C/C++, or Web Devlopment?** Let's talk.
-- 👨‍💻 Everything I build are here → [github.com/Abdulla3037](https://github.com/Abdulla3037)
+- 👨‍💻 Everything I build lives here → [github.com/Abdulla3037](https://github.com/Abdulla3037?tab=repositories)
 - 📫 Drop a mail at **abdullahasan220618@gmail.com**
 - ⚡ When I’m not coding, I like spending time playing online multiplayer games! 🎮
   
