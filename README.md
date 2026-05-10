@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=2000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Md.+Abdulla+Hasan" alt="Typing SVG" />
 </p>
-<h3 align="center">CSE Undergraduate | Data Science | Passionate about Data Analytics & Artificial Intelligence | Machine Learning Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdulla3037&label=Profile%20views&color=0e75b6&style=flat-square" alt="abdulla3037" />
