@@ -22,13 +22,15 @@
 ### 🤵 About Me
 
 - 🎓 Currently pursuing **BSc in CSE** at **East West University**, Dhaka, Bangladesh.
+  
 - 🏆 Published research on Fruit Freshness Assessment powered by ResNet34 & Deep Learning presenting at IEEE CSNT 2026.
+  
 - 🚀 I'm currently learning more about Artificial Intelligence, Machine Learning, Data Science, Deep Learning, NLP, and Data Analysis.
 - 💬 Got a question about **Python, ML, Deep Learning, SQL, C/C++, or Web Devlopment?** Let's talk.
 - 👨‍💻 Everything I build lives here → [github.com/Abdulla3037](https://github.com/Abdulla3037)
 - 📫 Drop a mail at **abdullahasan220618@gmail.com**
 - ⚡ Outside of coding, I'm either in-game or plotting my next win online! 🎮
-- 
+  
 </td>
 <td valign="top" width="45%">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
