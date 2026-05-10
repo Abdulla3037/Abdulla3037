@@ -4,7 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Abdulla Hasan</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Md.%20Abdulla%20Hasan&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
+</p>
 <h3 align="center">CSE student | Enthusiastic about software development, problem solving, and AI innovations.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
