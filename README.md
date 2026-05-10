@@ -70,11 +70,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdulla3037&layout=compact&langs_count=8&theme=aura_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdulla3037&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulla3037&theme=aura_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulla3037&theme=aura_dark" alt="GitHub Stats" />
 </p>
 
 <p align="left">
