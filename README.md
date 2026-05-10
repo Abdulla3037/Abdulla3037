@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Md.%20Abdulla%20Hasan&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Md.+Abdulla+Hasan" alt="Typing SVG" />
 </p>
 <h3 align="center">CSE student | Enthusiastic about software development, problem solving, and AI innovations.</h3>
 
