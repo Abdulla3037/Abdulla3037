@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Abdulla3037">
-    <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="GitHub Banner" width="100%" height="380px" />
+    <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="GitHub Banner" width="100%" height="400px" />
   </a>
 </p>
 
