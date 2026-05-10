@@ -50,14 +50,8 @@
   <a href="https://instagram.com/md_olee" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.leetcode.com/drdoom404" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>&nbsp;
   <a href="https://codeforces.com/profile/dr.doom202" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.codechef.com/users/doom_404" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>&nbsp;
   <a href="https://discord.gg/rider303" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
